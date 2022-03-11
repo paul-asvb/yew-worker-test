@@ -2,7 +2,7 @@
 
 ## deploy
 
-´´´
+```
 wrangler deploy
 ```
 
